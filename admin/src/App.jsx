@@ -5,7 +5,7 @@ import 'react-toastify/dist/ReactToastify.css'
 import { useContext } from 'react';
 import { AdminContext } from './context/AdminContext';
 import Navbar from './components/Navbar';
-import Sidebar from './components/sidebar';
+import Sidebar from './components/Sidebar';
 import { Route, Routes } from 'react-router-dom';
 import AllApointments from './pages/Admin/AllApointments';
 import Dashboard from './pages/Admin/Dashboard';
